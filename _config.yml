@@ -25,6 +25,7 @@ future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Custom variables
 owner : "SimHyeonJae"
