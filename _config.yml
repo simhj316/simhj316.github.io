@@ -5,7 +5,7 @@ author:
   email: "simhj316@naver.com"
   url: "https://simhj316.github.io/"
 
-baseurl: https://simhj316.github.io/
+baseurl: home
 
 source: .
 destination: ./_site
@@ -21,11 +21,7 @@ defaults:
     values:
       layout: "post"
 
-future: false
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
+future: true
 
 # Custom variables
 owner : "SimHyeonJae"
