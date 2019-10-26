@@ -5,7 +5,7 @@ author:
   email: "simhj316@naver.com"
   url: "https://simhj316.github.io/"
 
-baseurl: /
+baseurl: https://simhj316.github.io/
 
 source: .
 destination: ./_site
@@ -21,7 +21,7 @@ defaults:
     values:
       layout: "post"
 
-future: true
+future: false
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
